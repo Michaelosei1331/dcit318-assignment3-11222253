@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Eraser",
+    "Quantity": 125,
+    "DateAdded": "2025-08-15T00:46:53.745491+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Exercisebook",
+    "Quantity": 60,
+    "DateAdded": "2025-08-13T00:46:53.7474418+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Pencil Pack",
+    "Quantity": 300,
+    "DateAdded": "2025-08-10T00:46:53.7479475+00:00"
+  }
+]
