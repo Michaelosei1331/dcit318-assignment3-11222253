@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\dcit-318\dcit-318\bin\Debug\net8.0\dcit-318.exe
+C:\Users\HP\Desktop\dcit-318\dcit-318\bin\Debug\net8.0\dcit-318.deps.json
+C:\Users\HP\Desktop\dcit-318\dcit-318\bin\Debug\net8.0\dcit-318.runtimeconfig.json
+C:\Users\HP\Desktop\dcit-318\dcit-318\bin\Debug\net8.0\dcit-318.dll
+C:\Users\HP\Desktop\dcit-318\dcit-318\bin\Debug\net8.0\dcit-318.pdb
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.AssemblyInfo.cs
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.dll
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\refint\dcit-318.dll
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.pdb
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\dcit-318.genruntimeconfig.cache
+C:\Users\HP\Desktop\dcit-318\dcit-318\obj\Debug\net8.0\ref\dcit-318.dll
